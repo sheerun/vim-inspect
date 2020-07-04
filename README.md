@@ -10,10 +10,10 @@ https://chromedevtools.github.io/devtools-protocol/v8/
 
 Connects to server but I'm unable to receive any message. After I manage to get response I need to figure out how to unmask response payload and convert it to string... Any help would be appreciated to create working proof of concept.
 
-## Usage
+## Testing
 
 ```
-;Inspect node test.js
+:Inspect node test.js
 ```
 
 ## License
